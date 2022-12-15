@@ -44,16 +44,21 @@ __Interesses atuais__: Design Patterns, Clean Architecture, Node.js e Python.
 
     __:fire: Projeto(s) relevante__:
 
-    __Portal B2B Yandeh__: Sistema B2B que cria a inteligência entre as operações varejista e fornecedor e integrações ligados ao ERP.<br>
-    __Atividade__: Atuando primariamente como Front-end, porém colaborando/contribuindo com Back-end em algumas features.<br>
-    __Linguagens__: Python e JavaScript.
-    __Tecnologias__: Vue(Nuxtjs), React(Next.js), Web2Py e FastAPI
-    __Database__: Postgres
-    __Front-end__
+    __Portal B2B Yandeh__: Sistema B2B que cria a inteligência entre as operações varejista e fornecedor e integrações ligados ao ERP.   <br>
+    
+    __Atividade__: Atuando primariamente como Front-end, porém colaborando/contribuindo com Back-end em algumas features.   
+    
+    __Linguagens__: Python e JavaScript.   
+    
+    __Tecnologias__: Vue(Nuxtjs), React(Next.js), Web2Py e FastAPI   
+    
+    __Database__: Postgres   
+    
+    __Front-end__   
     - Arquitetura
     - Layout portal e admin
-    - Integração client-server e serviços
+    - Integração client-server e serviços   
  
-    __Backend__
+    __Backend__   
     - Criação de endpoints e rotas
-    - Estrutura de serviços
+    - Estrutura de serviços   
