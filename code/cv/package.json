@@ -1,0 +1,24 @@
+{
+  "name": "cv",
+  "packageManager": "yarn@3.2.4",
+  "type": "module",
+  "scripts": {
+    "cleardocs": "rm -rf ../../docs/**",
+    "copyassets": "mkdir dist; cp -R src/assets dist/",
+    "copydocs": "cp -a dist/* ../../docs/cv",
+    "cssbuild": "sass src/style/sass/main.sass dist/style/css/main.css --style compressed",
+    "htmlbuild": "yarn pug src/*.pug -o dist",
+    "tspass": "sass --watch src/style/sass/main.sass dist/style/css/main.css --style compressed",
+    "tsphtml": "yarn pug -w src/*.pug -o dist",
+    "server": "yarn copyassets; lite-server --baseDir=\"dist\"",
+    "dev": "concurrently \"yarn tspass\" \"yarn tsphtml\" \"yarn server\"",
+    "build": "rm -rf dist; yarn copyassets; yarn cssbuild; yarn htmlbuild; yarn copydocs; yarn server"
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0",
+    "lite-server": "^2.6.1",
+    "pug": "^3.0.2",
+    "pug-cli": "^1.0.0-alpha6",
+    "sass": "^1.56.2"
+  }
+}
