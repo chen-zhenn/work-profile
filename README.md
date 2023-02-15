@@ -1,5 +1,8 @@
+<div style="position:relative">
+    <div><img src="assets/cover-dev-croped.1.1.png"/><div>
+    <h3 style="position:relative;top:-13px;font-size:31px">Carlos Garcia</h3>
+</div>
 
-### Carlos Garcia
 ## :rocket: Programador Web e Front-end especialista
 
 __Localizado atualmente em Zona Oeste, São Paulo - SP__.
@@ -10,9 +13,9 @@ __Localizado atualmente em Zona Oeste, São Paulo - SP__.
 | :link: [Github](https://github.com/chen-zhenn)           | github.com/chen-zhenn
 | :phone: Celular | (11) 97038-9550
 
----
 
-### :coffee: Sobre
+
+## :coffee: Sobre   
 
 Desde 2008 tenho contato com desenvolvimento Web. Mas em 2010 foi quando comecei lidar com interfaces Web. Onde vivenciei toda evolução do desenvolvimento Web e maturidade pela que a mesma passou. Codando Front-end's com hacks HTML, CSS, JavaScript e AS3(saudoso Flash) - tempos longínquos...
 
@@ -26,15 +29,13 @@ __Competências__: Linux · Git · Desenvolvimento ágil · Desenvolvimento Web 
 
 __Interesses atuais__: Design Patterns, Clean Architecture, Node.js e Python.  
 
---- 
 
-### :mortar_board: Formação
+
+## :mortar_board: Formação
 
 * Web Developer - [Impacta Tecnologia](https://impacta.com.br) - 2010
 * Bacharelado em Produção multimedia(Comunicação pra Web) - [UNIP](https://www.unip.br) - 2009 a 2010
 * Web Design - [Senai](https://www.sp.senai.br) - 2008
-
----
 
 ### :muscle: Experiências
 
