@@ -1,6 +1,6 @@
 <div style="position:relative">
     <div><img src="assets/cover-dev-croped.1.1.png"/><div>
-    <h2 style="position:relative;top:-13px;font-size:31px">Carlos Garcia</h2>   
+    <h3 style="position:relative;top:-13px;font-size:31px">Carlos Garcia</h3>   
 </div>
 
 ## :rocket: Programador Web e Front-end especialista
