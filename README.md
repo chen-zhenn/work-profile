@@ -14,13 +14,13 @@ __Localizado atualmente em Zona Oeste, São Paulo - SP__.
 
 ### :coffee: Sobre
 
-Desde 2008 tenho contato com desenvolvimento Web. Mas em 2010 foi quando comecei lidar com interfaces Web. Onde vivenciei toda evolução do desenvolvimento Web e maturidade pela que a mesma passou. Codando Front-end's com Hacks HTML, CSS, JavaScript e AS3(saudoso Flash) - tempos longínquos...
+Desde 2008 tenho contato com desenvolvimento Web. Mas em 2010 foi quando comecei lidar com interfaces Web. Onde vivenciei toda evolução do desenvolvimento Web e maturidade pela que a mesma passou. Codando Front-end's com hacks HTML, CSS, JavaScript e AS3(saudoso Flash) - tempos longínquos...
 
-Tenho maior profundidade e proficiência na linguagem JavaScript bem como todo seu ecossistema, incluindo Frameworks reativos como React, Vue.js e até mesmo Node.Js - Backend.
+Tenho maior profundidade e proficiência na linguagem JavaScript bem como todo seu ecossistema, incluindo frameworks reativos como React, Vue.js para Front-end e Node.Js - Back-end.
 
-Dado experiência e atuação em projetos de aplicações com design e arquitetura mais madura. Pude ter uma compreensão hands-on(mão na massa) do desenvolvimento ponta-a-ponta - Full Cycle, envolvendo Arquitetura limpa(Clean Architecture), cobertura de testes(unitário, integração e End-to-end ), deploys automatizados CI/CD.
+E dado experiência e atuação em projetos de aplicações com design e arquitetura mais madura, pude ter uma compreensão hands-on(mão na massa) do desenvolvimento ponta-a-ponta - full cycle, envolvendo arquitetura limpa(Clean Architecture), cobertura de testes(unitário, integração e end-to-end ), deploys automatizados - CI/CD.
 
-Em suma, há 12 anos atuando com a Web com DNA Front-end e aquele apreço pelo ecossistema Client-side.
+Em suma, há 12 anos lidando com a Web, com DNA Front-end e aquele apreço pelo ecossistema client-side.
 
 __Competências__: Linux · Git · Desenvolvimento ágil · Desenvolvimento Web · Web Responsive · CSS · Frameworks CSS · Pré-processadores CSS · TypeScript · Frameworks reativos JS(React e Vue.js) · Usabilidade
 
