@@ -2,7 +2,7 @@
 ### Carlos Garcia
 ## :rocket: Programador Web e Front-end especialista
 
-__Localizado atualmente em Perus, São Paulo - SP__.
+__Localizado atualmente em Zona Oeste, São Paulo - SP__.
 
 | Onde me encontrar | info |
 |-----------------  |------|
