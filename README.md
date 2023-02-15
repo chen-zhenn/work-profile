@@ -13,8 +13,6 @@ __Localizado atualmente em Zona Oeste, São Paulo - SP__.
 | :link: [Github](https://github.com/chen-zhenn)           | github.com/chen-zhenn
 | :phone: Celular | (11) 97038-9550
 
-
-
 ## :coffee: Sobre   
 
 Desde 2008 tenho contato com desenvolvimento Web. Mas em 2010 foi quando comecei lidar com interfaces Web. Onde vivenciei toda evolução do desenvolvimento Web e maturidade pela que a mesma passou. Codando Front-end's com hacks HTML, CSS, JavaScript e AS3(saudoso Flash) - tempos longínquos...
@@ -28,8 +26,6 @@ Em suma, há 12 anos lidando com a Web, com DNA Front-end e aquele apreço pelo 
 __Competências__: Linux · Git · Desenvolvimento ágil · Desenvolvimento Web · Web Responsive · CSS · Frameworks CSS · Pré-processadores CSS · TypeScript · Frameworks reativos JS(React e Vue.js) · Usabilidade
 
 __Interesses atuais__: Design Patterns, Clean Architecture, Node.js e Python.  
-
-
 
 ## :mortar_board: Formação
 
